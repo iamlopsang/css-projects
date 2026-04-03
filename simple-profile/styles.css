@@ -1,38 +1,47 @@
+/* ===== Global Styles ===== */
 * {
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
 }
 
+/* ===== Body ===== */
 body {
     background-color: #f0f0f0;
     padding: 20px;
 }
 
+/* ===== Header ===== */
 h1 {
     text-align: center;
     margin-top: 20px;
     color: #333;
 }
 
+/* ===== Profile Card ===== */
 #profile-card {
     text-align: center;
 }
 
+/* ===== Profile Card Container ===== */
 .profile-image {
     margin-top: 30px;
     text-align: center;
     display: inline-block;
     border: 2px solid #812f2f;
     background-color: rgb(214, 189, 157);
+    border-radius: 5px;
+    width:250px;
 }
 
+/* ===== Profile Image ===== */
 .profile-image img {
-    padding-top: 10px;
     display: block;
     margin: 0 auto;
+    padding: 15px;
 }
 
+/* ===== Name (Figcaption) ===== */
 figcaption {
     text-align: center;
     margin-top: 10px;
@@ -41,32 +50,41 @@ figcaption {
     font-family: 'Times New Roman', Times, serif;
 }
 
+/* ===== Position Text ===== */
 #field {
     text-align: center;
     margin-top: 10px;
-    font-size: 18;
+    font-size: 18px;
     color: #333131;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* ===== Bio Section ===== */
 .bio {
     text-align: center;
     margin-top: 10px;
-    font-size: 16px;
+    font-size: 14px;
     color: #181717;
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* ===== Bio Section ===== */
 hr {
     margin-top: 10px;
     border: 1px solid #333;
     margin-bottom: 10px;
 }
 
+/* ===== Social Links ===== */
 .social a {
     text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin: 5px;
 }
 
+/* ===== Link States ===== */
 a:hover {
     color: #bd3131;
 }
