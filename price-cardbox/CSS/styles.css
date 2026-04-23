@@ -77,8 +77,25 @@ text-align: right;
 
 .content{
     width: 30vw;
-    height: 30vh;
+    height: 45vh;
     border-top: 3px solid rgb(236, 126, 23);
     background-color: rgb(235, 172, 95);
     color: 255, 255, 255;
+}
+
+.price{
+    font-size: 2rem;
+}
+
+.btn{
+    background-color: rgb(78, 18, 241);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 150px;
+    height:45px;
+    font-size: 1.2em;
+    font-family: 'Times New Roman', Times, serif;
 }
