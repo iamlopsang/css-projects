@@ -1,8 +1,10 @@
+/* global styles for the entire page */
 body{
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(193, 222, 248);
 }
 
+/* typography styles for header and paragraph */
 h1{
     text-align: center;
     color: rgb(94, 19, 19);
@@ -17,6 +19,7 @@ p{
     font-size: 1.5rem;
 }
 
+/* navigation menu styles */
 .menu{
 list-style: none;
 text-align: right;
@@ -36,6 +39,7 @@ background-color: rgb(50, 139, 218);
     font-family: 'Times New Roman', Times, serif;
 }
 
+/* products section and card styles  */
 .products{
     text-align: center;
 }
@@ -50,6 +54,7 @@ background-color: rgb(50, 139, 218);
     min-width: 300px;
 }
 
+/* prodcut images styles  using background properties*/
 .image-card-one{
     background-image: url("../image/shoe1.jpg");
     background-size:cover;
@@ -79,6 +84,7 @@ background-color: rgb(50, 139, 218);
     background-attachment: scroll;
 }
 
+/* card content styles   */
 .content {
     width: 30vw;
     min-width: 300px; /* Prevents the card from becoming a tiny sliver */
@@ -86,7 +92,7 @@ background-color: rgb(50, 139, 218);
     min-height: 45vh; 
     border-top: 3px solid rgb(236, 126, 23);
     background-color: rgb(235, 172, 95);
-    color: rgb(255, 255, 255);
+    color: rgba(255, 255, 255, 0.76);
     padding-bottom: 20px;
 }
 
@@ -96,6 +102,7 @@ background-color: rgb(50, 139, 218);
     font-family: 'Times New Roman', Times, serif;
 }
 
+/* buttons styles */
 .btn{
     background-color: rgb(78, 18, 241);
     color: white;
@@ -118,6 +125,7 @@ background-color: rgb(50, 139, 218);
     transform: scale(0.95);
 }
 
+/* footer styles */
 .footer{
     background-color: rgb(50, 139, 218);
     color: white;
