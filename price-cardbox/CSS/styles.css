@@ -75,7 +75,7 @@ background-color: rgb(50, 139, 218);
 }
 
 .image-card-three{
-    background-image: url("../image/shoe3.jpg");
+background-image: url("../image/shoe3.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
