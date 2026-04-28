@@ -22,3 +22,7 @@
 
 ##  Acknowledgement
     This is a beginner-friendly project built for learning and improving CSS skills.
+
+##  Iamge Credits
+    - michaeldam → image1  
+    
