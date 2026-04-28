@@ -42,3 +42,8 @@
     > Using background images in div.
     > Creating hover effects for buttons
     > Organizing files in a project
+
+##  Iamge Credits
+    - Ryan Waring → shoe1  
+    - The DK Photography → shoe2  
+    - USAMA AKRAM → shoe3 
