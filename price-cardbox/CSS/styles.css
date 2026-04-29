@@ -96,10 +96,22 @@ background-image: url("../image/shoe3.jpg");
     padding-bottom: 20px;
 }
 
+.content h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(94, 19, 19);
+    font-size: 1.5rem;
+}
 
-.price{
+.content p{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(94, 19, 19);
+    font-size: 1.3rem;
+}
+
+.content> .price{
     font-size: 2rem;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(226, 9, 9);
 }
 
 /* buttons styles */
