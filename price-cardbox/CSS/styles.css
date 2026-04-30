@@ -100,6 +100,7 @@ background-image: url("../image/shoe3.jpg");
     font-family: 'Times New Roman', Times, serif;
     color: rgb(94, 19, 19);
     font-size: 1.5rem;
+    text-decoration: underline;
 }
 
 .content p{
@@ -142,8 +143,13 @@ background-image: url("../image/shoe3.jpg");
     background-color: rgb(50, 139, 218);
     color: white;
     padding: 20px;
+    color: rgb(28, 8, 83);
 }
 
+.footer p{
+    color: rgb(28, 8, 83);
+    font-family: 'Times New Roman', Times, serif;
+}
 .address ul{
     list-style: none;
     padding: 0;
