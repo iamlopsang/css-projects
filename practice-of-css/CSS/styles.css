@@ -45,5 +45,10 @@ input[type="checkbox"]{
     appearance: none;
     border:2px solid rgb(9, 71, 243);
     background-color: rgb(40, 131, 192);
+    cursor: pointer;
 }
 
+input[type="checkbox"]:checked{
+    background-color: rgb(40, 105, 243);
+    border:2px solid rgb(9, 71, 243);
+}
