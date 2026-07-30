@@ -39,3 +39,11 @@ label{
     margin: 5px;
 }
 
+input[type="checkbox"]{
+    width:15px;
+    height:15px;
+    appearance: none;
+    border:2px solid rgb(9, 71, 243);
+    background-color: rgb(40, 131, 192);
+}
+
