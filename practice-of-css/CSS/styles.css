@@ -52,3 +52,9 @@ input[type="checkbox"]:checked{
     background-color: rgb(40, 105, 243);
     border:2px solid rgb(9, 71, 243);
 }
+
+input[type="checkbox"]:checked::after{
+    background-color: rgb(246, 247, 248);
+    content: "✓";
+    display: block;
+}
