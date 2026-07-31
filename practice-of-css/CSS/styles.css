@@ -30,13 +30,16 @@ legend{
     font-family:'Times New Roman', Times, serif;
     font-size: 20px;
     font-weight: bold;
-    color: rgba(1, 24, 3, 0.897);
+    color: rgba(2, 87, 9, 0.897);
 }
 
 label{
     display: block;
     padding: 5px;
     margin: 5px;
+    color: rgb(13, 12, 14);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 input[type="checkbox"]{
