@@ -46,6 +46,8 @@ input[type="checkbox"]{
     border:2px solid rgb(9, 71, 243);
     background-color: rgb(40, 131, 192);
     cursor: pointer;
+    transition: all 0.3s;
+    vertical-align: middle;
 }
 
 input[type="checkbox"]:checked{
