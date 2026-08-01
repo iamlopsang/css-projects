@@ -1,35 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<!-- Head Section -->
 <head>
+    <!-- Character encoding -->
     <meta charset="UTF-8">
+
+    <!-- Makes the webpage responsive on different screen sizes -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Title shown on the browser tab -->
     <title>Checklist</title>
+
+    <!-- External CSS file -->
     <link rel="stylesheet" href="./CSS/styles.css">
 </head>
+
 <body>
+
+    <!-- Main Checklist Container -->
     <div class="check-box">
+
+        <!-- Page Heading -->
         <h1>Checklist</h1>
 
+        <!-- Fieldset groups related form elements -->
         <fieldset>
+
+            <!-- Title of the Fieldset -->
             <legend>Graphics & Display</legend>
 
+            <!-- Fullscreen Mode Option -->
             <label for="fullscreen">
-                <input type="checkbox" id="fullscreen" name="fullscreen" checked/>Fullscreen Mode
+                <input type="checkbox" id="fullscreen" name="fullscreen" checked>
+                Fullscreen Mode
             </label>
 
+            <!-- V-Sync Option -->
             <label for="vsync">
-                <input type="checkbox" id="vsync" name="vsync"/>V-Sync
+                <input type="checkbox" id="vsync" name="vsync">
+                V-Sync
             </label>
 
+            <!-- Motion Blur Option -->
             <label for="motion">
-                <input type="checkbox" id="motion" name="motion"/>Motion Blur
+                <input type="checkbox" id="motion" name="motion">
+                Motion Blur
             </label>
 
+            <!-- FPS Counter Option -->
             <label for="fps">
-                <input type="checkbox" id="fps" name="fps"/>Show FPS Counter
+                <input type="checkbox" id="fps" name="fps">
+                Show FPS Counter
             </label>
 
         </fieldset>
-        </div>
+
+    </div>
+
 </body>
 </html>
