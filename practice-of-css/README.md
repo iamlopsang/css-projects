@@ -7,3 +7,19 @@
 
 ##  Objectives:
     > Practice HTML form elements('fieldset','legend', 'label', 'input'),
+    > Learn how to customize default checkboxes using CSS,
+    > Understand the use of 'width', 'max-width', and 'margin-auto',
+    > Practice responsive design for different screen sizes, 
+    > Improve CSS organiazation and styling.
+
+##  Features:
+    > Custom-designed checkboxes,
+    > Responsive checklist container,
+    > Fieldset with  legend for grouped options,
+    > Smooth checkbox transition effect,
+    > Beginner-friendly and clean layout,
+    > Centered design without using Flexbox.
+
+##  Built with
+    > HTML5
+    > CSS3
