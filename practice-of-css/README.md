@@ -23,3 +23,13 @@
 ##  Built with
     > HTML5
     > CSS3
+
+##  What I have Learned?
+    > Creating and Styling HTML forms,
+    > Using 'fieldset' and 'legend' to organize related inputs,
+    > Connected labels with checkboxes using 'for' and 'id',
+    > Customizing checkboxes with the 'appearance' property,
+    > Using pseudo-elements '(::after)' to display a custom checkmark,
+    > Centering elements with 'margin:auto',
+    > Creating responsive layouts using 'width' and 'max-width',
+    > Organizing CSS into logical sections with comments.
