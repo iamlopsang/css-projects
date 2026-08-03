@@ -33,3 +33,13 @@
     > Centering elements with 'margin:auto',
     > Creating responsive layouts using 'width' and 'max-width',
     > Organizing CSS into logical sections with comments.
+
+## Project Folder:
+
+    project-folder/
+    │
+    ├── index.html
+    └── CSS/
+        └── styles.css
+
+## 
