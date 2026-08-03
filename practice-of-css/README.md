@@ -37,9 +37,14 @@
 ## Project Folder:
 
     project-folder/
-    │
-    ├── index.html
-    └── CSS/
-        └── styles.css
+│
+├── index.html
+├── README.md
+├── CSS/
+│   └── styles.css
+└── image/
+    └── checklist-preview.jpg
 
-## 
+## Screenshot
+
+![Checklist Preview](image/checklist-preview.jpg)
