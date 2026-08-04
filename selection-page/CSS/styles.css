@@ -3,3 +3,10 @@ body{
     background-color: #ad9494;
     margin: 0;
 }
+
+.selection-card-container{
+    background-color: #e98989;
+    display:inline-block;
+    padding: 20px;
+    margin: 10px;
+}
