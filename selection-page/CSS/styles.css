@@ -23,4 +23,10 @@ h1{
 
 .card-container{
     display:inline-block;
+    width:165px;
+    height:200px;
+    padding:10px 19px;
+    margin: 10px;
+    background-color: rgb(231, 132, 18);
+    color:rgb(95, 4, 39);
 }
