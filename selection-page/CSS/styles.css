@@ -1,30 +1,22 @@
-body {
-  font-family: Arial, sans-serif;
-  background-color: #d4b9b9;
-  margin: 0;
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(158, 195, 228);
 }
 
-.selection-card-container {
-  background-color: #e76060;
-  display: inline-block;
-  padding: 20px;
-  margin: 10px;
-  max-width: 80%;
-  width: 360px;          /* Adjusted width to perfectly cradle a 2x2 grid */
-  height: auto;          /* REMOVED 400px: Let it expand naturally so boxes don't spill out */
-  box-shadow: 0 2px 4px rgba(26, 11, 11, 0.1);
-  box-sizing: border-box; 
+h1{
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(128, 9, 226);
 }
 
-.card-container {
-  background-color: #ee0e0e;
-  width: 140px;          /* Two of these (280px) fit perfectly inside the 320px inner width */
-  height: 180px; 
-  border-radius: 2px; 
-  border: 3px solid black; 
-  display: inline-block;
-  vertical-align: top;   /* Keeps them aligned at the top */
-  margin: 10px 5px;      /* 10px top/bottom, 5px left/right spacing */
-  padding: 10px; 
-  box-sizing: border-box; 
+selection-card-container{
+    background-color: rgb(5, 60, 179);
+    width:90%;
+    max-width:350px;
+    margin: 20px auto;
+    padding-bottom: 10px;
+    
 }
