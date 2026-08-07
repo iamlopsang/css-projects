@@ -29,4 +29,5 @@ h1{
     margin: 10px;
     background-color: rgb(231, 132, 18);
     color:rgb(95, 4, 39);
+    vertical-align: top;
 }
