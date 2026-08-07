@@ -31,3 +31,13 @@ h1{
     color:rgb(95, 4, 39);
     vertical-align: top;
 }
+
+input[type="checkbox"]{
+    width:15px;
+    height:15px;
+    vertical-align: middle;
+    appearance: none;
+    background-color: rgb(227, 239, 247);
+    border: 2px solid rgb(9, 71, 243);
+    cursor: pointer;
+}
