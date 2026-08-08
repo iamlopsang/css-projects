@@ -29,7 +29,7 @@ h1{
     margin: 10px;
     background-color: rgb(231, 132, 18);
     color:rgb(95, 4, 39);
-    vertical-align: top;
+    vertical-align: middle;
 }
 
 input[type="checkbox"]{
@@ -40,4 +40,18 @@ input[type="checkbox"]{
     background-color: rgb(227, 239, 247);
     border: 2px solid rgb(9, 71, 243);
     cursor: pointer;
+
+}
+
+input[type="checkbox"]:checked{
+    background-color: rgb(218, 225, 226);
+}
+
+input[type="checkbox"]:checked::after{
+    content: "✓";
+    color: rgb(17, 1, 1);
+    display: block;
+    text-align: center;
+    line-height: 11px;
+    font-weight: bold;
 }
