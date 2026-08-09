@@ -26,3 +26,22 @@
     > Custom checkmark using CSS pseudo-element,
     > Beginner-friendly and clean layout.
 
+##  Built with
+    > HTML5
+    > CSS3
+
+##  What I have Learned?
+    > Creating selection card using HTML,
+    > Using 'label', and 'input' elements together,
+    > Connecting labels with checkboxes using 'for' and 'id',
+    > Customizing checkboxes using the 'appearnce' property,
+    > Using the ':checked' pseudo-class,
+    > Using '::after' to create a custom checkmark,
+    > Using 'display:inline-block' to arrange cards,
+    > Using 'vertical-align' for inline block alignment,
+    > Centering elements with 'margin:auto',
+    > Creating responsive layouts using 'width' and 'max-width',
+    > Organizing CSS into logical sections with comments.
+
+##   
+
