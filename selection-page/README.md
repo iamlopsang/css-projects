@@ -15,3 +15,14 @@
     > Learn how to use pseudo-classes such as ':checked',
     > Practice using pseudo-elements such as '::after',
     > Improve CSS organization and styling.
+
+##  Features:
+    > Multiple selection cards,
+    > Custom-designed checkboxes,
+    > Interactive checkbox selection,
+    > Different cards for Frontend, Backend, Fullstack, and Data Analyst and Science,
+    > Responsive selection using 'margin:auto',
+    > Card layout using 'inline-block',
+    > Custom checkmark using CSS pseudo-element,
+    > Beginner-friendly and clean layout.
+
