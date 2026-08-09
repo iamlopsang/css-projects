@@ -43,5 +43,17 @@
     > Creating responsive layouts using 'width' and 'max-width',
     > Organizing CSS into logical sections with comments.
 
-##   
+##   Project folder:
 
+        project-folder(selection page)/ 
+        │
+        ├── index.html 
+        ├── README.md 
+        ├── CSS/ │ 
+            └── styles.css 
+        └── image/ 
+            └── selection-page-preview.jpg
+
+## Screenshot
+
+![Selection Preview](selection-page-preview.jpg)
