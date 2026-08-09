@@ -36,14 +36,14 @@
 
 ## Project Folder:
 
-    project-folder/
-│
-├── index.html
-├── README.md
-├── CSS/
-│   └── styles.css
-└── image/
-    └── checklist-preview.jpg
+    project-folder(practice-of-css)/
+    │
+    ├── index.html
+    ├── README.md
+    ├── CSS/
+    │   └── styles.css
+    └── image/
+        └── checklist-preview.jpg
 
 ## Screenshot
 
