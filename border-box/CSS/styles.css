@@ -1,0 +1,16 @@
+body{
+    background-color: #68caf8fa;
+    margin: 0;
+}
+
+.content-layout {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    display:block;
+    background-color: #ffffffc0;
+    color: #333;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}   
