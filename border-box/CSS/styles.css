@@ -1,21 +1,29 @@
-body{
+body {
     background-color: #68caf8fa;
     margin: 0;
 }
 
 .content-layout {
-    max-width: 600px;
+    /* max-width: 600px;
     margin: 40px auto;
     padding: 20px;
     box-sizing: border-box;
     display:block;
     background-color: #ffffffc0;
     color: #333;
-    font-size: 20px;
+    font-size: 20px; */
+    width: 500px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #000;
+    background-color: white;
+    box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
-}   
+}
 
-#confidential, #secret {
+#confidential , #secret {
     border: 2px solid #ff0000;
     display: inline-block;
     margin-left: 15px;
