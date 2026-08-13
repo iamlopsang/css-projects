@@ -24,10 +24,13 @@ body {
 }
 
 #confidential , #secret {
-    border: 2px solid #ff0000;
+    border: 3px solid #ff0000;
     display: inline-block;
-    margin-left: 15px;
+    margin-left: 45px;
     padding: 10px;
+    font-weight: bold;
+    content: justify;
+    text-align: center;
 }
 
 .blur{
@@ -36,4 +39,10 @@ body {
 
 #confidential{
     transform: rotate(-5deg);
+}
+
+#secret{
+    transform: rotate(5deg);
+    width: 80px;
+    text-align: center;
 }
