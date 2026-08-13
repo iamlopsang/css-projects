@@ -1,17 +1,14 @@
+/* ---------- Page Body ---------- */
+
 body {
-    background-color: #68caf8fa;
+    background-color: #b5daebfa;
     margin: 0;
 }
 
+
+/* ---------- Main Content Container ---------- */
+
 .content-layout {
-    /* max-width: 600px;
-    margin: 40px auto;
-    padding: 20px;
-    box-sizing: border-box;
-    display:block;
-    background-color: #ffffffc0;
-    color: #333;
-    font-size: 20px; */
     width: 500px;
     padding: 50px;
     margin-top: 50px;
@@ -23,25 +20,37 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-#confidential , #secret {
+
+/* ---------- Confidential and Secret Labels ---------- */
+
+#confidential, #secret {
     border: 3px solid #ff0000;
     display: inline-block;
     margin-left: 45px;
     padding: 10px;
     font-weight: bold;
-    content: justify;
     text-align: center;
+    background-color: #ece8e8;
 }
 
-.blur{
+
+/* ---------- Blurred Text Effect ---------- */
+
+.blur {
     filter: blur(3px);
 }
 
-#confidential{
+
+/* ---------- Confidential Label Rotation ---------- */
+
+#confidential {
     transform: rotate(-5deg);
 }
 
-#secret{
+
+/* ---------- Secret Label Rotation ---------- */
+
+#secret {
     transform: rotate(5deg);
     width: 80px;
     text-align: center;
