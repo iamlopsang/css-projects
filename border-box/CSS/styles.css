@@ -29,3 +29,11 @@ body {
     margin-left: 15px;
     padding: 10px;
 }
+
+.blur{
+    filter: blur(3px);
+}
+
+#confidential{
+    transform: rotate(-5deg);
+}
