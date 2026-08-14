@@ -15,4 +15,17 @@
     > Understand the use of 'box-sizing:border-box',
     > Improve CSS organization and styling.
 
+##  Features:
+    > Centered content container,
+    > Confidential and Secret labels,
+    > Rotated labels using CSS transforms,
+    > Blurred text effect,
+    > Custom borders and spacing,
+    > White content box with a colored page background,
+    > Beginner-friendly and clean layout.
+
+##  Built with:
+    > HTML5
+    > CSS3
+
 
