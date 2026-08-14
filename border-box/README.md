@@ -1,12 +1,15 @@
 ##  Border Box (Practice Simple Project):
+
     - A simple content layout project built using HTML and CSS.
 
 ##  About the Project:
+
     - The project displays a contnent box with Confidential and Secret labels positioned abovef the text.
     - It uses CSS borders, spacing, transformations, and blur effects to create a simple confidentail document-style design.
     - It is designed as a beginner-friendly project to practice CSS box model, positioning, inline-block elements, transformations, and visual effects.
 
 ##  Objectives:
+
     > Practice creating structured layouts using HTML, 
     > Understand the CSS model using 'width', 'padding', 'margin', and 'border',
     > Learn how to center a container using 'margin-left:auto' and 'margin-right:auto',
@@ -16,6 +19,7 @@
     > Improve CSS organization and styling.
 
 ##  Features:
+
     > Centered content container,
     > Confidential and Secret labels,
     > Rotated labels using CSS transforms,
@@ -25,10 +29,12 @@
     > Beginner-friendly and clean layout.
 
 ##  Built with:
+
     > HTML5
     > CSS3
 
 ##  What I  have Learned?
+
     > Creating a structured content layout using HTML,
     > Understanding the CSS box model,
     > Using 'padding', 'margin', 'border', and 'width',
@@ -39,4 +45,17 @@
     > Using 'box-sizing:border-box' to control element sizing,
     > Organizing CSS into logical sections using comments.
 
+##  Project Folder:
 
+    project-folder/
+    │
+    ├── index.html
+    ├── README.md
+    ├── CSS/
+    │   └── styles.css
+    └── image/
+        └── border-box-preview.jpg
+        
+##  Screenshot:
+
+    ![Border Box Preview](image/border-box-preview.jpg)
