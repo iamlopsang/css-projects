@@ -1,11 +1,14 @@
 ##  Checklist(Practice Simple Project):
+
     - A simple checklist interface built using HTML and CSS.
 
 ##  About the Project:
+
     - The project displays a customizable checklist with styled checkboxes inside a fieldset.
     - It is designed as  a beginner-friendly project to practice HTML forms, CSS styling, spacing, and responsive layouts without using flexbox.
 
 ##  Objectives:
+
     > Practice HTML form elements('fieldset','legend', 'label', 'input'),
     > Learn how to customize default checkboxes using CSS,
     > Understand the use of 'width', 'max-width', and 'margin-auto',
@@ -13,6 +16,7 @@
     > Improve CSS organiazation and styling.
 
 ##  Features:
+
     > Custom-designed checkboxes,
     > Responsive checklist container,
     > Fieldset with  legend for grouped options,
@@ -21,10 +25,12 @@
     > Centered design without using Flexbox.
 
 ##  Built with
+
     > HTML5
     > CSS3
 
 ##  What I have Learned?
+
     > Creating and Styling HTML forms,
     > Using 'fieldset' and 'legend' to organize related inputs,
     > Connected labels with checkboxes using 'for' and 'id',
@@ -47,4 +53,4 @@
 
 ## Screenshot
 
-![Checklist Preview](image/checklist-preview.jpg)
+    ![Checklist Preview](image/checklist-preview.jpg)
