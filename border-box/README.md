@@ -28,4 +28,15 @@
     > HTML5
     > CSS3
 
+##  What I  have Learned?
+    > Creating a structured content layout using HTML,
+    > Understanding the CSS box model,
+    > Using 'padding', 'margin', 'border', and 'width',
+    > Centering elements using 'margin-left:auto' and 'margin-right:auto',
+    > Using 'display:inline-block' for placing elements side by side,
+    > Using 'transform:rotate()' to rotate elements,
+    > Using 'filter:blur()' to create a blur effects,
+    > Using 'box-sizing:border-box' to control element sizing,
+    > Organizing CSS into logical sections using comments.
+
 
