@@ -17,4 +17,9 @@ body{
     font-weight: bold;
     text-align: center;
     text-transform: uppercase;
+    border-bottom: 4px solid #dd1313;
+}
+
+.gallery{
+    display: flex;
 }
