@@ -1,6 +1,13 @@
 *{
     font-family: "Times New Roman", serif;
     color: #0a0000;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: "Times New Roman", serif;
+    background-color: #c9a0a0;
 }
 
 .header{
@@ -8,5 +15,4 @@
     color:#0a0000;
     font-size: 30px;
     font-weight: bold;
-    font-family: "Times New Roman", serif;
 }
