@@ -37,4 +37,10 @@ body{
     max-width: 350px;
     height:300px;
     object-fit: cover;
+    border-radius:5px solid black;
+}
+
+.gallery img:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
 }
