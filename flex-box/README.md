@@ -18,3 +18,16 @@
         > Learn how to control image dimensions using 'width' and 'height',
         > Practice using 'object-fit:cover' for consistent image sizing,
         > Add simple hover effects using CSS transitions and transform.
+
+    ##  Features:
+
+        > Flex-box based photo gallery,
+        > Responsive image layout using flex-wrap,
+        > Centered gallery container,
+        > Consistent image dimensions,
+        > Rounded image corners,
+        > Image hover zoom effects,
+        > Smooth transition effects,
+        > Simple and beginner-friendly design.
+
+        
