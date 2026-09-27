@@ -35,4 +35,11 @@
         > HTML5
         > CSS3
         > CSS Flexbox
-            
+
+    ##  What I Have Learned?
+
+        > Creating a photo gallery using HTML,
+        > Creating a Flexbox container with 'display:flex',
+        > Understanding the 'main axis' and 'cross axis' in Flexbox,
+        > Using 'flex-direction' to control the direction of items,
+        > Using 'flex-wrap' to move items  onto new rows,         
