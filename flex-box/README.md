@@ -49,4 +49,28 @@
         > Using 'object-fit: cover' to maintain consistent image proportions,
         > Using 'margin: auto' to center the gallery container,
         > Creating hover effects with transform and transition,
+        > Organizing CSS into logical sections using comments.
+
+    ##  Project Folder:
+
+    project-folder(flexbox)/
+    │
+    ├── index.html
+    ├── README.md
+    ├── CSS/
+    │   └── styles.css
+    └── image/
+        └── flexbox-preview.jpg
+        ├── shoe1.jpg
+        ├── shoe2.jpg
+        └── shoe3.jpg
+
+## Screenshot
+
+    ![Checklist Preview](image/flexbox-preview.jpg)
+
+##  Iamge Credits
+    - Ryan Waring → shoe1  
+    - The DK Photography → shoe2  
+    - USAMA AKRAM → shoe3 
 
