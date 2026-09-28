@@ -45,5 +45,8 @@
         > Using 'flex-wrap' to move items  onto new rows,
         > Using 'justify-content' and 'align-items' for alignment,
         > Using gap to create spacing between Flexbox items,
-        > Using 'width' and 'max-width' to control image sizing,  
-               
+        > Using 'width' and 'max-width' to control image sizing,
+        > Using 'object-fit: cover' to maintain consistent image proportions,
+        > Using 'margin: auto' to center the gallery container,
+        > Creating hover effects with transform and transition,
+
