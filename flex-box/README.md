@@ -42,4 +42,8 @@
         > Creating a Flexbox container with 'display:flex',
         > Understanding the 'main axis' and 'cross axis' in Flexbox,
         > Using 'flex-direction' to control the direction of items,
-        > Using 'flex-wrap' to move items  onto new rows,         
+        > Using 'flex-wrap' to move items  onto new rows,
+        > Using 'justify-content' and 'align-items' for alignment,
+        > Using gap to create spacing between Flexbox items,
+        > Using 'width' and 'max-width' to control image sizing,  
+               
